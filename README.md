@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- Email: support@llm-business-analytics.com
+- Email: au@aurabayashi.onmicrosoft.com
 - Issues: [GitHub Issues](https://github.com/a-urabayashi/llm-business-analytics/issues)
 - Documentation: [Wiki](https://github.com/a-urabayashi/llm-business-analytics/wiki)
 
