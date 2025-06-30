@@ -1,6 +1,6 @@
 # LLM Business Analytics
 
-A sophisticated business consulting chat application designed to analyze revenue metrics and provide intelligent recommendations for clinics. This project leverages advanced AI capabilities through OpenAI API and LangChain to deliver data-driven insights and actionable business strategies.
+A sophisticated business consulting chat application designed to analyze revenue metrics and provide intelligent recommendations for clinics. This project leverages advanced AI capabilities through Amazon Bedrock API and LangChain to deliver data-driven insights and actionable business strategies.
 
 ## 🚀 Features
 
@@ -121,7 +121,6 @@ pytest --cov=src tests/
 
 ### Environment Variables
 ```bash
-OPENAI_API_KEY=your_openai_key
 AWS_ACCESS_KEY_ID=your_aws_key
 AWS_SECRET_ACCESS_KEY=your_aws_secret
 AWS_REGION=us-east-1
@@ -173,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- OpenAI for providing the GPT models
+- Multi LLM knowledge for providing the GPT models
 - AWS for Bedrock infrastructure
 - LangChain community for the excellent framework
 - Healthcare industry partners for domain expertise
